@@ -1,2 +1,2 @@
 # Algorithms-
-create algorithms for new hospital system project,Bank database management and point of sale system management  
+create algorithms for new hospital system management,Bank database system management and point of sale system management  
